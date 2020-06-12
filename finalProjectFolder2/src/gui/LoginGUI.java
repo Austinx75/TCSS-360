@@ -41,7 +41,7 @@ public class LoginGUI extends JDialog {
 	
 	/**
 	 * @authors Austin, Anh
-	 * Austin: Created login ability for users, and to create a user account
+	 * Austin: Created login ability for users, and to create a user account, and tiger theme
 	 * Anh created log in for admin, reset buttons, and jtext fields 
 	 */
 	public LoginGUI() {
